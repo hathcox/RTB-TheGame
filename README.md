@@ -1,4 +1,4 @@
-RTB-TheGame
-===========
+BlackBook
+=========
 
-An HTML5 Javascript Webgame that simulates the look and feel of a Root the Box competition.
+A Social Media Web App that is designed to be run on private networks and environments.
